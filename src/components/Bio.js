@@ -17,8 +17,8 @@ class Bio extends React.Component {
         }}
       >
         <img
-          src={profilePic}
-          alt={`Kyle Mathews`}
+          src="https://avatars1.githubusercontent.com/u/2059801?s=460&v=4"
+          alt={`Priestch`}
           style={{
             marginRight: rhythm(1 / 2),
             marginBottom: 0,
@@ -27,10 +27,9 @@ class Bio extends React.Component {
           }}
         />
         <p>
-          Written by <strong>Kyle Mathews</strong> who lives and works in San
-          Francisco building useful things.{' '}
-          <a href="https://twitter.com/kylemathews">
-            You should follow him on Twitter
+          Written by <strong>Priesth</strong> who lives and works in Xi'an building useful things.{' '}
+          <a href="https://github.com/Priestch">
+            You should follow him on Github
           </a>
         </p>
       </div>
