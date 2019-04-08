@@ -1,0 +1,1 @@
+{"data":{"site":{"siteMetadata":{"title":"Gatsby Starter Blog","description":"A starter blog demonstrating what Gatsby can do."}},"allMarkdownRemark":{"edges":[{"node":{"excerpt":"Hello Gatsby!","fields":{"slug":"/hello-world/"},"frontmatter":{"date":"01 May, 2015","title":"Hello Gatsby"}}}]}},"pageContext":{}}
