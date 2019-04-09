@@ -66,6 +66,6 @@ Error: Cannot find module 'node-sass'
     at Function.Module._load (internal/modules/cjs/loader.js:507:25)
     at Module.require (internal/modules/cjs/loader.js:637:17)
     at require (internal/modules/cjs/helpers.js:22:18)
-    at Object.sassLoader (/home/gaopeng/Enter/vue-pdf-component/node_modules/sass-loader/lib/loader.js:24:22)
+    at Object.sassLoader (/path-of-your-project-directory/node_modules/sass-loader/lib/loader.js:24:22)
 ```
 
