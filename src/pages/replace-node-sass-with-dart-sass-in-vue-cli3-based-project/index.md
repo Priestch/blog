@@ -69,3 +69,5 @@ Error: Cannot find module 'node-sass'
     at Object.sassLoader (/path-of-your-project-directory/node_modules/sass-loader/lib/loader.js:24:22)
 ```
 
+**[Upgrade vue-cli packages if necessary](https://github.com/vuejs/vue-cli/issues/3399#issuecomment-466319019)**
+
