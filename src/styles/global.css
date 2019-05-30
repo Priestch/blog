@@ -2,3 +2,7 @@ ul,
 ol {
     list-style-position: inside;
 }
+
+.line-numbers-rows {
+    padding-left: 0.8em;
+}

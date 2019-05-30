@@ -10,14 +10,16 @@ date: "2019-04-08T04:36:03.284Z"
 
 ## How?
 #### 1. Replace node-sass with dart-sass
-  1. Uninstall node-sass
-    ```bash
-    npm uninstall node-sass
-    ```
-  2. Install dart-sass
-    ```bash
-    npm install --dev sass
-    ```
+  **1. Uninstall node-sass**
+
+```bash
+npm uninstall node-sass
+```
+  **2. Install dart-sass**
+
+```bash
+npm install --dev sass
+```
 
 #### 2. Update vue.config.js
 
